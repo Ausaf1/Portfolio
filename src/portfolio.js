@@ -371,7 +371,7 @@ const certifications = {
         "https://drive.google.com/file/d/1mR5_Yz9jYoEvdIdoqJikPv9GOfEGJk1t/view?usp=drivesdk",
       alt_name: "TRS",
       // color_code: "#f36c3d",
-      color_code: "#fffbf3",
+      color_code: "#C5E2EE",
     },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
