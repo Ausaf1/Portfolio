@@ -333,7 +333,7 @@ const certifications = {
       subtitle: "Google",
       logo_path: "kickstart.jpg",
       certificate_link:
-        "https://drive.google.com/file/d/1bJK-WdXZTktK042JXHY0Eh9fEAfolYpH/view?usp=drivesdk",
+        "https://drive.google.com/file/d/1GRIMqfVaoJ0V1p_HsEKvZvFDVTLGaBHx/view?usp=sharing",
       color_code: "#47A048",
     },
     {
@@ -370,9 +370,20 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1mR5_Yz9jYoEvdIdoqJikPv9GOfEGJk1t/view?usp=drivesdk",
       alt_name: "TRS",
-      // color_code: "#f36c3d",
-      color_code: "#C5E2EE",
+      color_code: "#f36c3d",
+      // color_code: "#C5E2EE",
     },
+    {
+      title: "GDSC JMI Membership",
+      subtitle: "GDSC JMI",
+      logo_path: "gdg.png",
+      certificate_link:
+        "https://drive.google.com/file/d/151ePETBKcc8PybZ4OExOGMeSq3mw6FYU/view?usp=sharing",
+      alt_name: "GDSC",
+      color_code: "#0C9D5899",
+      // color_code: "#C5E2EE",
+    },
+
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
@@ -397,15 +408,15 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "In search of internship.",
-          //   company: "",
-          //   company_url: "",
-          logo_path: "404.png",
-          //   duration: "",
+          title: "Engineering Intern.",
+          company: "m16 Labs",
+          company_url: "https://m16labs.com/",
+          logo_path: "m16.jpg",
+          duration: "June 2022 - Present",
           //   location: "",
-          //   description:
+          // description:
           //     ``,
-          //   color: "",
+          color: "#4285F4",
         },
         // {
         //   title: "",
@@ -455,7 +466,7 @@ const experience = {
           location: "New Delhi",
           description:
             "Spread Knowledge about Robotics and its applications to students.",
-          color: "#040f26",
+          color: "#4285F4",
         },
       ],
     },
