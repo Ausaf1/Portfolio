@@ -412,10 +412,10 @@ const experience = {
           company: "m16 Labs",
           company_url: "https://m16labs.com/",
           logo_path: "m16.jpg",
-          duration: "June 2022 - Present",
+          duration: "June 2022 - Aug 2022",
           //   location: "",
           // description:
-          //     ``,
+          // ``,
           color: "#4285F4",
         },
         // {
@@ -436,6 +436,17 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
+          title: "Lead",
+          company: "Google Developer Student Club,Jmi",
+          company_url: "https://gdsc.community.dev/jamia-millia-islamia-delhi/",
+          logo_path: "gdg.png",
+          duration: "Aug 2022 - Present",
+          location: "New Delhi",
+          description:
+            "Spread Awareness of  Google Technologies and opportunities to Students and Grow Gdsc Community.",
+          color: "#196acf",
+        },
+        {
           title: "Vice Chair Person",
           company: "The w3b Chain Society, Jmi",
           // company_url: "",
@@ -451,7 +462,7 @@ const experience = {
           company: "Google Developer Student Club,Jmi",
           company_url: "https://gdsc.community.dev/jamia-millia-islamia-delhi/",
           logo_path: "gdg.png",
-          duration: "Aug 2021 - Present",
+          duration: "Aug 2021 - April 2022",
           location: "New Delhi",
           description:
             "Spread Awareness of  Google Technologies and opportunities to Students and Grow Gdsc Community.",
